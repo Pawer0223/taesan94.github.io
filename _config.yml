@@ -38,6 +38,10 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: (ToyProject1 - 아직미정) 
+      url: /ToyProject1.html
+
+
 
 url: "https://taesan94.github.io"
 baseurl: ""

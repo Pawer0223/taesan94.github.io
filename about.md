@@ -8,4 +8,4 @@ My name is Taesan Kang
 
 My teacher is thsisIron
 
-email: agus[at]python.web.id
+email: 

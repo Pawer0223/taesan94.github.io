@@ -6,8 +6,8 @@ layout: default
   <h1> TEST로 만들어보기 </h1>
   <hr />
 
-  <ol class="posts">
-    {% for post in paginator.posts %}
+  <ol class="KTS_TESTS">
+    {% for post in paginator.KTS_TESTS %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
